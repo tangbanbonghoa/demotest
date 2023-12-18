@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K9B/Pl5qZZOF3/4ZyMJ+5WtOpAWB6M7Nm+3zdOk6XDwgFJhe6gg6kvKHDKMgW8Bp9FDcucvI2T59IlrErQpotw==",
+  "dgSpecHash": "peA05+rwpDxxiaR8859ffM2A4pLNdLsEAV2MX2j+qz2LycEdyqNhdQBKrlJxQpMH7bPL0Xz+HhW6aBpji7QNtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\DEMO\\A_DAL\\A_DAL.csproj",
+  "projectFilePath": "C:\\c#3\\Bài Tập\\New folder\\A_DAL\\A_DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

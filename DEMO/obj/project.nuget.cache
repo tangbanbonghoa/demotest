@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mwhl5hH1HUCmA2koAlCqo0egx/wjIMIcCWTUKYLe81xk85s49CbhHJWCjbQt8+y6rFEzzQzB8EXQbUMPus9zrw==",
+  "dgSpecHash": "4xtks879G8bJ8Ic42VcahLCceWDQSNyTQQDenv77x3qH4PUYFrJi0E+TJchh1ScXa+m3Y3bU299tpdfrAYp4dg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\DEMO\\DEMO\\C_PRL.csproj",
+  "projectFilePath": "C:\\c#3\\Bài Tập\\New folder\\DEMO\\C_PRL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

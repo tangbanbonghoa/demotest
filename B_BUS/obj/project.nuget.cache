@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uLl7IkPy3H1stQYRUzPGn+WVfk2mUlxEbYEE7nUC8piHVt/jtnYu9gx1hTFpj8llCS/trgHtZvXaQnjQo0Zn1g==",
+  "dgSpecHash": "Grp+a7ybJER47H+vi/HgCZZODqkTRCHCbTgJ4q+dLSo+0Nd682juzXCrHV4PcXe00R9t8Fq4vwZejsaqTZf6Kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\DEMO\\B_BUS\\B_BUS.csproj",
+  "projectFilePath": "C:\\c#3\\Bài Tập\\New folder\\B_BUS\\B_BUS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
