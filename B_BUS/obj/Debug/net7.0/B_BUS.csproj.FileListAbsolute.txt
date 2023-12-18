@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\DEMO\B_BUS\bin\Debug\net7.0\B_BUS.deps.json
+C:\Users\Admin\source\repos\DEMO\B_BUS\bin\Debug\net7.0\B_BUS.dll
+C:\Users\Admin\source\repos\DEMO\B_BUS\bin\Debug\net7.0\B_BUS.pdb
+C:\Users\Admin\source\repos\DEMO\B_BUS\obj\Debug\net7.0\B_BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DEMO\B_BUS\obj\Debug\net7.0\B_BUS.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DEMO\B_BUS\obj\Debug\net7.0\B_BUS.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DEMO\B_BUS\obj\Debug\net7.0\B_BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DEMO\B_BUS\obj\Debug\net7.0\B_BUS.dll
+C:\Users\Admin\source\repos\DEMO\B_BUS\obj\Debug\net7.0\refint\B_BUS.dll
+C:\Users\Admin\source\repos\DEMO\B_BUS\obj\Debug\net7.0\B_BUS.pdb
+C:\Users\Admin\source\repos\DEMO\B_BUS\obj\Debug\net7.0\ref\B_BUS.dll
+C:\Users\Admin\source\repos\DEMO\B_BUS\bin\Debug\net7.0\A_DAL.dll
+C:\Users\Admin\source\repos\DEMO\B_BUS\bin\Debug\net7.0\A_DAL.pdb
+C:\Users\Admin\source\repos\DEMO\B_BUS\obj\Debug\net7.0\B_BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DEMO\B_BUS\obj\Debug\net7.0\B_BUS.csproj.CopyComplete
